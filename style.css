@@ -7,6 +7,7 @@ body{
     text-align: center;
     background-color: #888;
     color: #fff;
+    font-style: italic;
 }
 main{
     display: flex;
